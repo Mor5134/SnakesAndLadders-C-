@@ -1,0 +1,15 @@
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\obj\Debug\net7.0\SimulatorLadderSnake.csproj.AssemblyReference.cache
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\obj\Debug\net7.0\SimulatorLadderSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\obj\Debug\net7.0\SimulatorLadderSnake.AssemblyInfoInputs.cache
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\obj\Debug\net7.0\SimulatorLadderSnake.AssemblyInfo.cs
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\obj\Debug\net7.0\SimulatorLadderSnake.csproj.CoreCompileInputs.cache
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\bin\Debug\net7.0\SimulatorLadderSnake.exe
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\bin\Debug\net7.0\SimulatorLadderSnake.deps.json
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\bin\Debug\net7.0\SimulatorLadderSnake.runtimeconfig.json
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\bin\Debug\net7.0\SimulatorLadderSnake.dll
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\bin\Debug\net7.0\SimulatorLadderSnake.pdb
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\obj\Debug\net7.0\SimulatorLadderSnake.dll
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\obj\Debug\net7.0\refint\SimulatorLadderSnake.dll
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\obj\Debug\net7.0\SimulatorLadderSnake.pdb
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\obj\Debug\net7.0\SimulatorLadderSnake.genruntimeconfig.cache
+C:\Users\marv5\OneDrive\שולחן העבודה\לימודים\תיק עבודות\111\SimulatorLadderSnake\SimulatorLadderSnake\obj\Debug\net7.0\ref\SimulatorLadderSnake.dll
